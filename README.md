@@ -1,8 +1,10 @@
 # Dark Souls III ARM GUI Cheat Table
 
 Dark Souls 3 Cheat Engine table providing a GUI tool for creating builds.
+
 [![Download](https://img.shields.io/badge/Download-GUI%20ITEM%20GIB.CT-blue?style=for-the-badge)](https://github.com/Azze1/DS3_ARM_GUIitemGib/raw/main/GUI%20ITEM%20GIB.CT)
 [![Discord](https://img.shields.io/discord/ваш_айди_сервера?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/mrj2mH9AN6)
+
 ---
 
 ##  Dependencies
