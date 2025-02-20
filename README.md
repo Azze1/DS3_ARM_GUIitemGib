@@ -48,7 +48,7 @@ A: Ensure that:
 A: All functions for which you can be banned are marked in red. All other functions are legal
 
 ---
-
+![Screenshot](SCR.png)
 ## 🔗 Links
 - [Official Cheat Engine](https://www.cheatengine.org/)
 - [Cheat Engine Official Website](https://www.cheatengine.org/)
