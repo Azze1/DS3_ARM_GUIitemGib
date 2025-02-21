@@ -51,4 +51,5 @@ A: All functions for which you can be banned are marked in red. All other functi
 ![Screenshot](SCR.png)
 ## 🔗 Links
 - [Official Cheat Engine](https://www.cheatengine.org/)
+- [Dark SoulsIII TGA Cheat Table](https://github.com/The-Grand-Archives/Dark-Souls-III-CT-TGA)
 - [Cheat Engine Official Website](https://www.cheatengine.org/)
